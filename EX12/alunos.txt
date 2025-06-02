@@ -1,0 +1,2 @@
+12;carlos;12.0
+12;pedro maconha;8.0
